@@ -1,4 +1,4 @@
-# Insecure Lawn Mower Ahead!
+# Insecure Lawn Mower Ahead (as of firmware version 3.0.13)!
 
 Recordings available now and in the future [on Youtube](https://github.com/jrm16020/roboup-mower) to help with demonstrating the issues.
 
