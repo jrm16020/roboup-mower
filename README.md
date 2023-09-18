@@ -1,4 +1,4 @@
-# Insecure Lawn Mower Ahead (as of firmware version 3.0.13)!
+# Insecure Lawn Mower Ahead!
 
 Recordings available now and in the future [on Youtube](https://github.com/jrm16020/roboup-mower) to help with demonstrating the issues.
 
@@ -12,5 +12,5 @@ More to come as I get more free time.  The mower is running on the RV1126_RV1109
 
 ## CVEs
 
-- Request 1520564 filed for the unauthenticated remote code execution via ADB exposed to the LAN
+- CVE-2023-42224 -- Unauthenticated remote code execution via ADB exposed to the LAN
 - Request 1515484 filed and waiting for review.
