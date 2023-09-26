@@ -12,5 +12,5 @@ More to come as I get more free time.  The mower is running on the RV1126_RV1109
 
 ## CVEs
 
-- [CVE-2023-42224](https://cve.report/CVE-2023-42224) -- Unauthenticated remote code execution via ADB exposed to the LAN
-- Request 1515484 filed and waiting for review.
+- CVE-2023-43214 -- Unauthenticated remote code execution via ADB exposed to the LAN
+- CVE-2023-43215 -- Information disclosure via unauthenticated MQTT broker
